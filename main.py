@@ -10,5 +10,5 @@ if Page_Produto == 'Consultar':
     PageListProduto.ListPageProduto()
 
 if Page_Produto == 'Incluir':
-   PageIncluirProduto.IncluirPageProduto()
+    PageIncluirProduto.IncluirPageProduto()
 
